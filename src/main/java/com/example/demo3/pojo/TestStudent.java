@@ -7,7 +7,7 @@ public class TestStudent {
         student.setName("小红");
         System.out.println(123);
         System.out.println(student.getName());
-
+        //123156
     }
 }
 
